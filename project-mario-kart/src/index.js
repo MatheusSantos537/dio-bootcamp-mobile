@@ -1,5 +1,6 @@
 // import { fs } from 'fs';
 
+
 const Pesonagens = require("./CHARACTERS.js")
 const readline = require('readline');
 /**
